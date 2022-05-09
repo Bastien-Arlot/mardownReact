@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mardownReact/static/css/main.21521c91.css",
+    "main.js": "/mardownReact/static/js/main.559c6d79.js",
+    "static/js/787.13b9c3ac.chunk.js": "/mardownReact/static/js/787.13b9c3ac.chunk.js",
+    "index.html": "/mardownReact/index.html",
+    "main.21521c91.css.map": "/mardownReact/static/css/main.21521c91.css.map",
+    "main.559c6d79.js.map": "/mardownReact/static/js/main.559c6d79.js.map",
+    "787.13b9c3ac.chunk.js.map": "/mardownReact/static/js/787.13b9c3ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21521c91.css",
+    "static/js/main.559c6d79.js"
+  ]
+}
